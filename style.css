@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-image: url('white\ water.jpg');
+    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5), url('white\ water.jpg'));
+}
+.container{
+    position: relative;
+    max-width: 800px;
+    padding: 10px;
+    margin: 0 auto;
+}
